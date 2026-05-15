@@ -1,7 +1,20 @@
 [
-    {
-        "id" : 1,
-        "name" : "Product - 1",
-        "price" : 500
-    }
+  {
+    "id": 1,
+    "name": "Apple iPhone 15",
+    "price": 799,
+    "description": "A modern smartphone with a powerful A16 Bionic chip, excellent camera system, and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 399,
+    "description": "Premium wireless noise-canceling headphones with high-quality sound, comfortable design, and long battery life."
+  },
+  {
+    "id": 3,
+    "name": "Apple MacBook Air M3",
+    "price": 1099,
+    "description": "A lightweight laptop with the M3 chip, fast performance, excellent battery life, and a sharp Retina display."
+  }
 ]
